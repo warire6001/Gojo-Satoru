@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918129624395','919037058796']
-global.premium = ['918129624395']
-global.ownernomer = '918129624395'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['905538834272','905538834272']
+global.premium = ['905538834272']
+global.ownernomer = '905538834272'
+global.ownername = 'Laçin Eke'
+global.botname = 'Laçin Eke'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.ig = 'https://github.com/EkeLachin'
+global.region = 'Türkiye, Turkey'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.myweb = 'https://youtube.com/c/LacinEke'
+global.packname = 'Laçin Eke-YouTube'
+global.author = '🐦Laçin Eke YouTube'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'Başarılı ✓',
+    admin: 'Bu Özellik Sadece Yöneticiler İçindir!',
+    botAdmin: 'Bot Önce Yönetici Olmalıdır!',
+    owner: 'Bu özelliği yalnızca bot sahibi kullanabilir!',
+    group: 'Bu özellik yalnızca gruplarda çalışır!',
+    private: 'Bu özelik (DM) özel sohbetlerde çalışır!',
+    bot: 'Bu Özellik Sadece Bot İçindir!',
+    wait: 'Lütfe bekleyiniz...',
+    error: 'Hata! Belki (Api Key) ApiAnahtarının Süresi Dolmuş🤔!',
+    endLimit: 'Günlük Limitinizin Süresi Doldu, Limit Her 12 Saatte Bir Sıfırlanacak!',
 }
     global.limitawal = {
     premium: "Infinity",
